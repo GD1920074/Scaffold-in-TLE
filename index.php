@@ -6,7 +6,7 @@ TLE Scaffold
 </title>
 </head>
 
-<img src="https://images.app.goo.gl/3372deKbPqugk6wi7">
+ <body bgcolor="#FADCD9">
 
 <font size= "12" face="Arial"><h2 align="center">Welcome to our</h2></font>
 
@@ -16,7 +16,8 @@ TLE Scaffold
   
 </marquee>
 
-<td><p align="center"><font size="12" face="Oswald">CAE</font></td>
+<br>
+ <td><p align="center"><font size="12" face="Oswald">CAE</font></td>
 <td><aa href="CAE.html">Click for the link</a></p></td>
 </tr>
 <br>
