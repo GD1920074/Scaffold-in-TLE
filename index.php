@@ -12,7 +12,7 @@ TLE Scaffold
 
 <marquee direction="up" scroll amount="30">
  
-  <h2> align="center"> HOME PAGE </h2>
+  <h2 align="center"> HOME PAGE </h2>
   
 </marquee>
 
