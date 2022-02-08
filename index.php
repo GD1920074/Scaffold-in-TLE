@@ -8,7 +8,7 @@ TLE Scaffold
 
 <body bgcolor="f2e6be"
 
-<font size= "30" face="Georgia"><h2 align="center"> Welcome </h2> </font>
+<font size= "30" face="Arial"><h2 align="center"> Welcome </h2></font>
 
 
 <td><font size="12" face="Oswald">CAE</font></td>
