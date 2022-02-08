@@ -6,7 +6,7 @@ TLE Scaffold
 </title>
 </head>
 
-<body bgcolor="f2e6be"
+<body background="https://images.app.goo.gl/3372deKbPqugk6wi7">
 
 <font size= "30" face="Arial"><h2 align="center">Welcome to our</h2></font>
 
