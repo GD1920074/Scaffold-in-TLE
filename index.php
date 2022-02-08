@@ -31,7 +31,7 @@ TLE Scaffold
 </tr>
 </table>
 
-<p><br><br><h3><font face="Arial" color="#523A28"><center><b><i>9D Group 8 Members:"</i></b></center><h3>
+<p><br><br><h3><font face="Arial" color="#523A28"><center><b><i>9D Group 8 Members:</i></b></center><h3>
  <h4><center><b> de Los Santos <br> Delicano <br> Garcia <br> Buenconsejo <br> Amaguin <br></b></center></h4></font><br><br>
 
 </body>
