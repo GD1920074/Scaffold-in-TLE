@@ -8,7 +8,7 @@ TLE Scaffold
 
  <body bgcolor="#FADCD9">
 
-<font size= "12" face="Arial"><h2 align="center">Welcome to our</h2></font>
+<font size= "10" face="Arial"><h2 align="center">Welcome to our</h2></font>
 
 <marquee direction="up" scroll amount="30">
  
@@ -17,7 +17,7 @@ TLE Scaffold
 </marquee>
 
 <br>
- <td><p align="center"><font size="12" face="Oswald">CAE</font></td>
+<td><p align="center"><font size="12" face="Oswald">CAE</font></td>
 <td><aa href="CAE.html">Click for the link</a></p></td>
 </tr>
 <br>
