@@ -8,7 +8,7 @@ TLE Scaffold
 
 <body background="https://images.app.goo.gl/3372deKbPqugk6wi7">
 
-<font size= "30" face="Arial"><h2 align="center">Welcome to our</h2></font>
+<font size= "20" face="Arial"><h2 align="center">Welcome to our</h2></font>
 
 <marquee direction="up" scroll amount="30">
  
