@@ -12,7 +12,7 @@ TLE Scaffold
 
 <marquee direction="up" scroll amount="30">
  
- <h2 align="center"><font size="15" face="Times New Roman" Color="pink"> HOME PAGE </font> </h2>
+ <h2 align="center"><font size="15" face="Times New Roman" Color="#050A30"> HOME PAGE </font> </h2>
   
 </marquee>
 
