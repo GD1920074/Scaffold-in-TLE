@@ -15,11 +15,11 @@ TLE Scaffold
 <td><aa href="CAE.html">Click for the link</a></td>
 </tr>
 <tr align="center">
-<td><font size="12" face="Oswald">CAE</font></td>
+<td><font size="12" face="Oswald">CLE</font></td>
 <td><aa href="CLE.html">Click for the link</a></td>
 </tr>
 <tr align="center">
-<td><font size="12" face="Oswald">CAE</font></td>
+<td><font size="12" face="Oswald">MATH</font></td>
 <td><aa href="MATH.html">Click for the link</a></td>
 </tr>
 </table>
