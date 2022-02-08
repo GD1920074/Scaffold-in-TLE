@@ -16,8 +16,8 @@ TLE Scaffold
   
 </marquee>
 
-<td><font size="12" face="Oswald">CAE</font></td>
-<td><aa href="CAE.html">Click for the link</a></td>
+<td><p align="center"><font size="12" face="Oswald">CAE</font></td>
+<td><aa href="CAE.html">Click for the link</a></p></td>
 </tr>
 <br>
 <tr align="center">
