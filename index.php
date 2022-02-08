@@ -10,6 +10,8 @@ TLE Scaffold
 
 <font size= "30" face="Arial"><h2 align="center">Welcome</h2></font>
 
+<marquee direction="up" scroll amount="30">
+  <h2> align="center"> HOME PAGE </h2>
 
 <td><font size="12" face="Oswald">CAE</font></td>
 <td><aa href="CAE.html">Click for the link</a></td>
