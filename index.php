@@ -8,11 +8,11 @@ TLE Scaffold
 
 <body bgcolor="f2e6be"
 
-<font size= "30" face="Arial"><h2 align="center">Welcome</h2></font>
+<font size= "30" face="Arial"><h2 align="center">Welcome to</h2></font>
 
 <marquee direction="up" scroll amount="30">
  
-  <h2 align="center"> HOME PAGE </h2>
+ <h2 align="center"><font size="15" face="Times new roman"> HOME PAGE </font> </h2>
   
 </marquee>
 
