@@ -5,7 +5,15 @@
 <title>
 TLE Scaffold
 </title>
+ <style>
+  body {
+   background-image: url("background.jpeg");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+  }
+ </style>  
 </head>
+ 
 
 <body background="background.jpeg">
 
