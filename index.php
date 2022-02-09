@@ -5,8 +5,7 @@
 TLE Scaffold
 </title>
 </head>
-
- <body bgcolor="#FADCD9">
+<div style="background-image:url('image url');">
 
 <font size= "10" face="Arial"><h2 align="center">Welcome to our</h2></font>
 
