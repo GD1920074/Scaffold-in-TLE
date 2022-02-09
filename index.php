@@ -4,18 +4,12 @@
 <head>
 <title>
 TLE Scaffold
-</title>
- <style>
-  body {
-   background-image: url("background.jpeg");
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-  }
- </style>  
+</title> 
 </head>
  
 
-<body background="background.jpeg">
+<body background="background.jpeg" bgproperties="fixed">
+
 
 <font size= "10" face="Arial"><h2 align="center">Welcome to our</h2></font>
 
