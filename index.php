@@ -5,8 +5,9 @@
 TLE Scaffold
 </title>
 </head>
-<div style="background-image:url('image url');">
 
+<body background="background.jpeg">
+ 
 <font size= "10" face="Arial"><h2 align="center">Welcome to our</h2></font>
 
 <marquee direction="up" scroll amount="30">
