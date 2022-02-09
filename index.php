@@ -23,7 +23,7 @@ TLE Scaffold
 <br>
 <td><p align="center"><font size="12" face="Oswald">CAE</font></td>
 
- <br><td><a href="CAE.html">Click for the link</a></p></td></br>
+<td><a href="CAE.html">Click for the link</a></p></td>
 </tr>
 
 <br>
@@ -31,7 +31,7 @@ TLE Scaffold
 
 <td><p align="center"><font size="12" face="Oswald">CLE</font></td>
 
- <br><td><a href="CLE.html">Click for the link</a></p></td></br>
+<td><a href="CLE.html">Click for the link</a></p></td>
 
 </tr>
 
@@ -40,7 +40,7 @@ TLE Scaffold
 
 <td><p align="center"><font size="12" face="Oswald">MATH</font></td>
 
- <br><td><a href="MATH.html">Click for the link</a></td></br>
+<td><a href="MATH.html">Click for the link</a></td>
 
 </tr>
 
