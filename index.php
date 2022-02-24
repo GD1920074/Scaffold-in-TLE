@@ -8,7 +8,7 @@ TLE Scaffold
 </head>
  
 
-<body background="homepage.png" bgproperties="fixed">
+<body background="home page.png" bgproperties="fixed">
 
 
 <font size= "10" face="Arial"><h2 align="center">Welcome to our</h2></font>
